@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Mock.vue just for a single spec 1`] = `
+<div>
+    <div>test1</div>
+    <div></div>
+    <div>test3</div>
+</div>
+`;
